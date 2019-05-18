@@ -1,0 +1,1 @@
+duckduckgo plugin for ulauncher
