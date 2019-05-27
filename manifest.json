@@ -1,5 +1,5 @@
 {
-  "required_api_version": "^4.1.1",
+  "required_api_version": "^1.0.0",
   "name": "Duckduckgo extension",
   "description": "Extension Description",
   "developer_name": "Akash Reddy",
