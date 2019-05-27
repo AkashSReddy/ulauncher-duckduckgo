@@ -4,7 +4,7 @@ Simple ULauncher extension that allows you to use the duckduckgo search engine.
 
 ## How it works ?
 
-It takes in the keyword and opens the browser when u hit enter and displays the result
+It takes in the query and opens the browser when u hit enter and displays the result < Keyword : ddg >
 
 ## Installation
 
