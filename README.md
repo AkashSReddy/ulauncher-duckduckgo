@@ -1,4 +1,4 @@
-# ulauncher-imdb
+# Ulauncher-duckduckgo
 
 Simple ULauncher extension that allows you to use the duckduckgo search engine.
 
