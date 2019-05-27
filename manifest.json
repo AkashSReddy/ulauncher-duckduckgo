@@ -1,19 +1,7 @@
 {
-  "required_api_version": "^1.0.0",
-  "name": "Duckduckgo extension",
-  "description": "Extension Description",
-  "developer_name": "Akash Reddy",
-  "icon": "images/icon.png",
-  "options": {
-    "query_debounce": 0.1
-  },
-  "preferences": [
-    {
-      "id": "keyword",
-      "type": "keyword",
-      "name": "duck",
-      "description": "duckduckgo extension",
-      "default_value": "ddg"
-    }
-  ]
+  "id": "keyword",
+  "type": "keyword",
+  "name": "duck",
+  "description": "duckduckgo extension",
+  "default_value": "ddg"
 }
