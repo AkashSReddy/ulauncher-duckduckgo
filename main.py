@@ -38,7 +38,7 @@ class KeywordQueryEventListener(EventListener):
                 name='Search on Duckduckgo',
                 description='Search for "{}".'.format(event.get_argument()),
                 on_enter=OpenUrlAction(
-                    'https://duckduckgo.com/?q={}'.format(
+                    'https://duckduckgo.com/?{}'.format(
                         urlencode({'q': event.get_argument(), 's': 'all'})
                     ))
             )

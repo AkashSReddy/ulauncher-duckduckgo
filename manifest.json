@@ -1,7 +1,20 @@
 {
-  "id": "keyword",
-  "type": "keyword",
-  "name": "duck",
-  "description": "duckduckgo extension",
-  "default_value": "ddg"
+  "manifest_version": "2",
+  "api_version": "1",
+  "name": "Duckduckgo extension",
+  "description": "To use duckduckgo search engine",
+  "developer_name": "Akash Reddy",
+  "icon": "images/icon.png",
+  "options": {
+    "query_debounce": 0.1
+  },
+  "preferences": [
+    {
+      "id": "keyword",
+      "type": "keyword",
+      "name": "duck",
+      "description": "duckduckgo extension",
+      "default_value": "ddg"
+    }
+  ]
 }
